@@ -1,0 +1,77 @@
+21:Hats|HH Pedal
+22:Hats|HH Closed Edge
+23:Hats|HH Pedal Splash
+24:Hats|HH Open 1
+25:Hats|HH Open 2
+26:Hats|HH Open 3
+27:Cymbals|Crash A (alias)
+28:Cymbals|Crash A (alias)
+29:Cymbals|Crash A (sustained)
+30:Cymbals|Crash B (alias)
+31:Cymbals|Crash B (alias)
+32:Cymbals|Crash B (sustained)
+33:Snares|Snare Left
+34:Kicks|Kick (alias)
+35:Kicks|Kick (open)
+36:Kicks|Kick Right
+37:Snares|Sidestick
+38:Snares|Snare Right
+39:Snares|Brush half circle
+40:Snares|Rimshot
+41:Toms|Floor head
+42:Hats|HH Closed
+43:Toms|Floor Tom head
+44:Hats|HH Pedal
+45:Toms|Rack Tom 2 head
+46:Hats|HH Open
+47:Toms|Rack Tom 2 head
+48:Toms|Rack Tom 1 head
+49:Cymbals|Crash A
+50:Toms|Rack Tom 1 head
+51:Rides|Ride tip
+52:Cymbals|Crash B
+53:Rides|Ride Bell Shank
+54:Cymbals|Crash A Muted
+55:Cymbals|Crash
+56:Hats|Hats Bell
+57:Cymbals|Crash
+58:Cymbals|Crash B Muted
+59:Rides|Ride Crash
+60:Rides|Hat|HH Open Max
+61:Hats|HH Closed Tip
+62:Hats|HH Tight
+63:Hats|HH Tight Tip
+64:Hats|HH Seq Hard
+65:Hats|HH Seq Soft
+66:Snares|Snare Brush Short Drag
+67:Snares|Snare Brush Full Circle
+68:Snares|Brush Muted
+69:Snares|Snare alias
+70:Snares|Snare Right
+71:Snares|Snare Rim
+72:Toms|Floor Tom Rim Only
+73:Toms|Floor Tom Rimshot
+74:Toms|Floor Tom Rim Only
+75:Toms|Floor Tom Rimshot
+76:Other|Sticks Count Ins
+77:Toms|Tom 2 Rim Only
+78:Toms|Tom 2 Rimshot
+79:Toms|Tom 2 Rim Only
+80:Toms|Tom 2 Rimshot
+81:Toms|Tom 1 Rim Only
+82:Toms|Tom 1 Rimshot
+113:Rides|Ride Tip
+114:Rides|Ride Bell Shank
+115:Rides|Ride Crash
+116:Rides|Ride Tip
+117:Rides|Ride Bell Tip
+118:Rides|Ride Muted
+119:Hats|HH Closed Bell
+120:Hats|HH Open Bell 1
+121:Hats|HH Open Bell 2
+122:Hats|HH Closed
+123:Hats|HH Open 1
+124:Hats|HH Open 3
+125:Snares|Snare Brush Short Drag
+126:Snares|Snare Brush Half Circle
+127:Snares|Snare Brush Full Circle

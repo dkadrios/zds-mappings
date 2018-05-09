@@ -1,0 +1,75 @@
+22:Hats|HH Closed Edge
+26:Hats|HH Open Edge
+31:Other|AUX 1 Head
+32:Other|AUX 1 Rim
+33:Other|AUX 2 Head
+34:Other|AUX 2 Rim
+35:Kicks|Kick Rim
+36:Kicks|Kick Head
+37:Snares|Cross Stick
+38:Snares|Snare Head
+39:Toms|Tom 4 Rim
+40:Snares|Snare Rim
+41:Toms|Tom 4
+42:Hats|HH Closed Bow
+43:Toms|Tom 3 Head
+44:Hats|HH Pedal
+45:Toms|Tom 2 Head
+46:Hats|HH Open Bow
+47:Toms|Tom 2 Rim
+48:Toms|Tom 1 Head
+49:Cymbals|Crash 1 Bow
+50:Toms|Tom 1 Rim
+51:Rides|Ride Bow
+52:Cymbals|Crash 2 Edge
+53:Rides|Ride Bell
+54:Perc|Tambourine
+55:Cymbals|Crash 1 Edge
+56:Perc|Cowbell
+57:Cymbals|Crash 2 Bow
+58:Toms|Tom 3 Rim
+23:Perc|78 Cowbell
+24:Perc|78 Guiro
+25:Perc|78 Maracas
+27:Perc|78 MBeat
+28:Perc|78 Tambourine
+29:Perc|808 Conga Hi
+30:Perc|808 Conga Mid
+37:Perc|Click
+54:Perc|Tecno Tambourine
+56:Perc|Cowbell Duo
+59:Perc|Bucket
+60:Perc|Trash Can
+61:Perc|Hoo!
+62:Perc|Electric Bird
+63:Perc|Gun Shot
+64:Perc|Mystery
+65:Perc|Monster
+66:Perc|Knock Down
+67:Perc|Time Trip
+68:Perc|Reverse Kick 1
+69:Perc|Reverse Snare 2
+70:Perc|Reverse Anvil
+71:Perc|Reverse China
+72:Perc|Reverse Bell Tree
+73:Perc|Reverse Hi-Q
+74:Perc|Reverse MFaze
+75:Perc|Reverse air Drive
+76:Perc|Count 1
+77:Perc|Count 2
+78:Perc|Count 3
+79:Perc|Count 4
+80:Perc|Count 5
+81:Perc|Count 6
+82:Perc|Count 7
+83:Perc|Count 8
+84:Perc|Count 9
+85:Perc|Count 10
+86:Perc|Count 11
+87:Perc|Count 12
+88:Perc|Count 13
+89:Perc|Count And
+90:Perc|Count E
+91:Perc|Count A
+92:Perc|Count Ti
+93:Perc|Count Ta

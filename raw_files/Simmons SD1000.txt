@@ -1,0 +1,26 @@
+21:Cymbals|Splash
+22:Hats|Hi-Hat Closed Edge
+23:Hats|Hi-Hat 1/2 Open
+24:Hats|Hi-Hat 1/2 Open Edge
+26:Hats|Hi-Hat Open Edge
+36:Kicks|Kick
+38:Snares|Snare
+39:Toms|Tom 4 Rim
+40:Snares|Snare Rim
+41:Toms|Tom 4
+42:Hats|Hi-Hat Closed
+43:Toms|Tom 3
+44:Hats|Hi-Hat Pedal
+45:Toms|Tom 2
+46:Hats|Hi-Hat Open
+47:Toms|Tom 2 Rim
+48:Toms|Tom 1
+49:Cymbals|Crash 1
+50:Toms|Tom 1 Rim
+51:Cymbals|Ride
+52:Cymbals|Crash 2 Edge
+53:Cymbals|Ride Bell
+55:Cymbals|Crash 1 Edge
+57:Cymbals|Crash 2
+58:Toms|Tom 3 Rim
+59:Cymbals|Ride Edge

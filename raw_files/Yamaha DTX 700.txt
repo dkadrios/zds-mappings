@@ -1,0 +1,19 @@
+16:Cymbals|Crash 2 Bell
+17:Cymbals|Crash 2 Bow
+18:Toms|Tom 2 Rim
+20:Toms|Tom 3 Rim
+36:Kicks|Kick
+37:Snares|X stick
+38:Snares|Snare Head
+40:Snares|Snare Rim
+42:Hats|HH Closed Bow
+43:Toms|Tom 3
+44:Hats|HH Pedal
+45:Toms|Tom 2
+46:Hats|HH Open Bow
+50:Toms|Tom 1
+51:Rides|Ride Bow
+52:Cymbals|Crash 2 Edge
+53:Rides|Ride Bell
+57:Cymbals|Crash 2 Bow
+59:Cymbals|Crash 1 Bow

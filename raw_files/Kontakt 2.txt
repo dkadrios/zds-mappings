@@ -1,0 +1,33 @@
+37:Hats|Hi Hat Open Alt
+39:Hats|Hi Hat Bell
+42:Snares|Snare Roll Alt
+43:Kicks|Kick Soft Alt
+44:Snares|Snare Roll
+45:Kicks|Kick Soft
+46:Snares|Snare Ghost Note
+47:Kicks|Kick Hard Alt
+48:Kicks|Kick Hard
+49:Snares|Snare Sidestick/Other
+50:Snares|Snare Center
+51:Snares|Snare Rimshot/Other
+52:Snares|Snare Edge
+53:Hats|Hi Hat Foot Shut
+54:Hats|Hi Hat Closed Inside
+55:Hats|Hi Hat Closed Alt
+56:Hats|Hi Hat Edge
+57:Hats|Hi Hat Choke
+58:Hats|Hi Hat Open
+59:Hats|Hi Hat Open (Bonham)
+60:Cymbals|Crash 1
+61:Cymbals|Crash 2
+62:Rides|Ride Edge
+63:Rides|Ride Bell
+64:Toms|Hi Tom Alt
+65:Toms|Hi Tom
+66:Toms|Hi Tom Edge
+67:Toms|Mid Tom Alt
+68:Toms|Mid Tom Edge
+69:Toms|Mid Tom
+70:Toms|Low Tom Edge
+71:Toms|Low Tom Alt
+72:Toms|Low Tom

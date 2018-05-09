@@ -1,0 +1,16 @@
+31:Snares|Snare
+33:Kicks|Kick
+34:Snares|Snare Rim O
+37:Snares|Snare Rim C
+42:Hats|HH Closed
+43:Toms|Tom 3
+44:Hats|HH Pedal
+46:Hats|HH Open
+47:Toms|Tom 2
+48:Toms|Tom 1
+49:Cymbals|Crash
+51:Rides|Ride
+52:Rides|Ride Edge
+55:Other|Option
+57:Cymbals|Crash Edge
+85:Hats|HH Splash

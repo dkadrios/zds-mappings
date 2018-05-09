@@ -1,0 +1,21 @@
+35:Kicks|Acoustic Bass Drum
+36:Kicks|Bass Drum 1
+37:Snares|Side Stick
+38:Snares|Acoustic Snare
+39:Snares|Hand Clap
+41:Toms|Low Floor Tom
+42:Hats|Close Hi-Hat
+43:Toms|High Floor Tom
+44:Hats|Pedal Hi-Hat
+45:Toms|Low Tom
+46:Hats|Open Hi-Hat
+49:Cymbals|Crash Cymbal 1
+51:Rides|Ride Cymbal 1
+52:Cymbals|Chinese Cymbal
+53:Rides|Ride Bell
+54:Perc|Tambourine
+55:Cymbals|Splash Cymbal
+56:Perc|Cowbell
+57:Cymbals|Crash Cymbal 2
+58:Perc|Vibraslap
+59:Rides|Ride Cymbal 2

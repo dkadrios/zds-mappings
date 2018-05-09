@@ -1,0 +1,85 @@
+24:Kicks|Kick
+25:Kicks|Mini Kick
+26:Snares|Dartsan Snare
+27:Snares|2|Rule Snare
+28:Perc|Scratch it
+29:Kicks|Busta Kick
+30:Hats|HH Closed
+31:Kicks|Busta Kick
+32:Hats|Brush Hat
+33:Perc|Tympani
+34:Hats|HH Open
+35:Hats|HH Crash Choke
+36:Kicks|Ludwig Kick
+37:Snares|Ludwig Rim
+38:Snares|Lugwig Snare
+39:Snares|Lugwig Ruff
+40:Snares|Lugwig Snare 2
+41:Toms|Floor Tom 2
+42:Hats|HH Closed
+43:Toms|Floor Tom 1
+44:Hats|HH Pedal
+45:Toms|Low Tom
+46:Hats|HH Open
+47:Cymbals|Crash
+48:Kicks|Kick
+49:Snares|X-stick
+50:Snares|Lugwig Snare
+51:Snares|Buzz Roll
+52:Snares|Wood Snare
+53:Toms|Gretsch Tom
+54:Hats|HH Closed
+55:Toms|Gretsch Tom
+56:Hats|HH Pedal
+57:Toms|Gretsch Tom
+58:Hats|HH open
+59:Rides|Ride
+60:Kicks|Kick
+61:Snares|Darstan Stick
+62:Snares|Darstan Snare
+63:Snares|Darstan Rim
+64:Snares|Darstan Snare off
+65:Toms|Tom
+66:Hats|HH Tip
+67:Toms|Tom
+68:Hats|HH Pedal
+69:Toms|Tom
+70:Hats|HH Half Open
+71:Cymbals|Zildjian Crash
+72:Kicks|Bass Drum
+73:Snares|X-stick
+74:Snares|Deep Snare
+75:Perc|Timbale
+76:Snares|Buju Snare
+77:Toms|Floor Tom
+78:Hats|HH Tip
+79:Toms|Tom 3
+80:Hats|HH Pedal 2
+81:Toms|Tom 2
+82:Hats|HH Loose
+83:Rides|Ride
+84:Kicks|DW Jazz Kick
+85:Snares|Chuck Brush
+86:Snares|Snare Brush
+87:Snares|Snare Swipe
+88:Snares|Snare Brush 2
+89:Toms|DW Tom Brush
+90:Hats|Zildjian HH Brush
+91:Toms|DW Tom Brush
+92:Hats|Brush Hat Pedal
+93:Toms|DW Tom Brush
+94:Hats|HH open
+95:Rides|Rivit Ride
+96:Kicks|Voc Kick
+97:Snares|Voc X-stick
+98:Snares|Voc Snare
+99:Perc|Voc Finger Snap
+100:Perc|Voc Chop
+101:Kicks|Voc Kick
+102:Hats|Voc HH Closed
+103:Toms|Voc Tom
+104:Hats|Voc HH Pedal
+105:Toms|Voc Tom
+106:Hats|Voc HH Open
+107:Kicks|Voc Bass
+108:Cymbals|Voc Crash

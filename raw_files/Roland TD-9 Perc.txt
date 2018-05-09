@@ -1,0 +1,126 @@
+0:Tambourine 1
+1:Tambourine 2
+2:Africa Jingle
+3:Metal Crasher
+4:Bendir
+5:Rain Stick
+6:78 Guiro
+7:78 Tambourine
+8:808 Clap
+9:808 Cowbell 1
+10:808 Maracas
+11:909 Clap
+12:HI-Q
+13:Metal Slap
+14:Scratch 1
+15:Scratch 3
+16:Sticks
+17:Click
+18:Metro Click
+19:Metro Bell
+20:Clap 1
+21:Vibra Slap
+22:Custom HHE
+24:Beep
+25:Crotale
+26:Custom HHE
+27:16" Maple T4
+28:16" Maple T4R
+29:Guiro Short
+30:Guiro Long
+31:Cuica High
+32:Cuica Low
+33:Cowbell 1
+34:Cowbell 2
+35:Custom K
+36:Maple K
+37:Cross Stick 1
+38:Custom S
+39:16" Maple T4R
+40:Custom SR
+41:16" Maple T4
+42:Custom HH
+43:14" Maple T3
+44:Custom HHE
+45:12" Maple T2
+46:Custom HH
+47:12" Maple T2R
+48:10" Maple T1
+49:16" Fast CrBw
+50:10" Maple T1R
+51:20" Custom Rd
+52:18" Power CrE
+53:20" Custom RdB
+54:Tambourine 1
+55:16" Fast CrE
+56:Cowbell 3
+57:18" PowerCrBw
+58:14" Maple T3R
+59:20" Custom RdE
+60:Bongo High
+61:Bongo Low
+62:Conga Open
+63:Conga Slap
+64:Conga Low
+65:Timbale High
+66:Timbale Low
+67:Agogo High
+68:Agogo Low
+69:Cabasa
+70:Maracas
+71:Whistle Short
+72:Whistle
+73:Guiro Short
+74:Guiro Long
+75:Claves
+76:WoodBlock High
+77:WoodBlock Low
+78:Cuica High
+79:Cuica Low
+80:TrianglCl/Op
+81:Triangle
+82:Shaker
+83:Sleigh Bells
+84:Bell Tree
+85:Castanet
+86:Surdo Mute
+87:Surdo Open
+88:Repinique Rim
+89:Repinique M/O
+90:Conga Mute
+91:Conga Low
+92:Pandeiro Jingle
+93:Pandeiro Thumb
+94:Pandeiro Slap
+95:Tree Chimes
+96:Crotale
+97:Gong
+98:Cajon Bass
+99:Cajon Open
+100:Cajon Slap
+101:Cowbell 1 Tip
+102:WoodBlock Hi
+103:Caxixi
+104:Timbale Rim
+105:Timbale Paila
+106:Cuica High
+107:Surdo Open
+108:Surdo Mute
+109:Pot Drum
+110:Quijada
+111:Pot Drum Mute
+112:Djembe
+113:Djembe Slap
+114:Djembe Bass
+115:Taiko
+116:Wa-Daiko
+117:Tabla Na
+118:Tabla Te
+119:Tabla Ti
+120:Tabla Tun
+121:Baya Ge
+122:Baya Gin
+123:Baya Ka
+124:Baya Slide
+125:Concert Bass Drum
+126:Hand Cymbal

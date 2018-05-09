@@ -1,0 +1,64 @@
+21:Hats|Pedal Chick - hats
+22:Hats|Closed Edge - hats
+23:Hats|Foot Splash - hats
+24:Hats|Open 1 - hats
+25:Hats|Open 2 - hats
+26:Hats|Open 3 - hats
+27:Cymbals|Cym 1 alias
+28:Cymbals|Cym 1 alias
+29:Cymbals|Cym 2 alias
+30:Cymbals|Cym 2 alias
+31:Cymbals|Cym 3 alias
+32:Cymbals|Cym 3 alias
+33:Snares|Snare Left
+34:Kicks|Kick alias
+35:Kicks|Kick alias
+36:Kicks|Kick Right
+37:Snares|Snare sidestick
+38:Snares|Snare right
+39:Snares|Snare ruff
+40:Snares|Snare rimshot
+41:Toms|Floor Tom head
+42:Hats|Closed HH - GM
+43:Toms|Floor Tom - head
+44:Hats|HH Pedal - GM
+45:Toms|Tom 3 - head
+46:Hats|HH open - GM
+47:Toms|Tom 2 - head
+48:Toms|Tom 1 - head
+49:Cymbals|Cym 1 - crash
+50:Toms|Tom 1 - head
+51:Rides|Ride - tip
+52:Rides|Ride - shank
+53:Rides|Ride - bell shank
+54:Other|MUTE
+55:Cymbals|Cym 2 - crash
+56:Rides|Ride - bell tip
+57:Cymbals|Cym - crash
+58:Cymbals|Cym 3 - MUTE
+59:Rides|Ride - edge
+60:Hats|HH - open max
+61:Hats|HH - closed tip
+62:Hats|HH - tight
+63:Hats|HH - tight tip
+64:Hats|HH - open minimum
+65:Hats|Hats Sequence
+71:Snares|Snare - rim only
+72:Toms|Floor Tom - head
+73:Toms|Floor Tom - rimshot
+74:Toms|Floor Tom - head
+75:Toms|Floor Tom - rimshot
+76:Snares|Snare - rim only
+77:Toms|Tom 3 - head
+78:Toms|Tom 3 - rimshot
+79:Toms|Tom 2 - head
+80:Toms|Tom 2 - rimshot
+81:Toms|Tom 1 - head
+82:Toms|Tom 1 - rimshot
+83:Cymbals|Cym 1 - MUTE
+116:Rides|Ride - shank
+117:Rides|Ride - bell tip
+118:Rides|Ride - MUTE
+119:Hats|HH - open min
+120:Hats|HH - open pedal
+121:Hats|HH - open loose

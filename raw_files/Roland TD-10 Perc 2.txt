@@ -1,0 +1,75 @@
+22:Hats|HH Closed Edge
+26:Hats|HH Open Edge
+31:Other|AUX 1 Head
+32:Other|AUX 1 Rim
+33:Other|AUX 2 Head
+34:Other|AUX 2 Rim
+35:Kicks|Kick Rim
+36:Kicks|Kick Head
+37:Snares|Cross Stick
+38:Snares|Snare Head
+39:Toms|Tom 4 Rim
+40:Snares|Snare Rim
+41:Toms|Tom 4
+42:Hats|HH Closed Bow
+43:Toms|Tom 3 Head
+44:Hats|HH Pedal
+45:Toms|Tom 2 Head
+46:Hats|HH Open Bow
+47:Toms|Tom 2 Rim
+48:Toms|Tom 1 Head
+49:Cymbals|Crash 1 Bow
+50:Toms|Tom 1 Rim
+51:Rides|Ride Bow
+52:Cymbals|Crash 2 Edge
+53:Rides|Ride Bell
+54:Perc|Tambourine
+55:Cymbals|Crash 1 Edge
+56:Perc|Cowbell
+57:Cymbals|Crash 2 Bow
+58:Toms|Tom 3 Rim
+23:Perc|808 Clave
+24:Perc|808 Cowbell 1
+25:Perc|808 Clap
+27:Kicks|Concert Bassdrum
+28:Snares|Snare Roll
+29:Perc|Timpani
+30:Perc|Timpani
+37:Snares|Cross-stick 4
+54:Perc|Tambourine 3
+56:Perc|Cowbell 2
+59:Perc|Bongo Hi Mute
+60:Perc|Bongo Hi Open
+61:Perc|Bongo Lo Open
+62:Perc|Conga Hi Open
+63:Perc|Conga Mid Mute
+64:Perc|Conga Mid Open
+65:Perc|Conga Mid Slap
+66:Perc|Congo Lo Mute
+67:Perc|Congo Lo open
+68:Perc|Congo Lo Slap
+69:Perc|Cabasa Up
+70:Perc|Cabasa Down
+71:Perc|Castanet
+72:Perc|Vibraslap
+73:Perc|Guiro Short
+74:Perc|Guiro Long 1
+75:Perc|Guiro Long 2
+76:Perc|Cuica Lo
+77:Perc|Cuica Open
+78:Perc|Cuica Mute 1
+79:Perc|Cuica Mute 2
+80:Perc|Tabla Na
+81:Perc|Tabla Tin
+82:Perc|Tabla Tun
+83:Perc|Tabla Te
+84:Perc|Baya Ge
+85:Perc|Baya Ka
+86:Perc|Baya Gin
+87:Perc|Baya Slap
+88:Perc|Kalimba
+89:Perc|Marimba
+90:Perc|Bend Gong
+91:Perc|Tiny Gong
+92:Perc|Gong
+93:Perc|Temple Bell
