@@ -32,7 +32,7 @@ module.exports = (gulp) => {
   })
 
   gulp.task('build:index', (cb) => {
-    let result = ''
+    let result = '/* eslint-disable quote-props */\n'
     const files = fs.readdirSync(outputPath)
     const fileNames = files.map(file => file.replace('.js', ''))
 
@@ -41,11 +41,11 @@ module.exports = (gulp) => {
       result += `import F${idx} from './mappings/${file}'\n`
     })
 
-    result += '\nconst getMappings = () => [\n'
+    result += '\nconst getMappings = () => ({\n'
 
     result += `${fileNames.map((file, idx) => `  '${file}': F${idx}`).join(',\n')},\n`
 
-    result += ']\nexport default getMappings\n'
+    result += '})\nexport default getMappings\n'
 
     fs.writeFile(indexPath, result, cb)
   })

@@ -1,3 +1,4 @@
+/* eslint-disable quote-props */
 import F0 from './mappings/2box.js'
 import F1 from './mappings/Addictive Drums.js'
 import F2 from './mappings/Alesis DM Pro.js'
@@ -84,7 +85,7 @@ import F82 from './mappings/Zendrum Stompblock.js'
 import F83 from './mappings/Zendrum TRS 2.0.js'
 import F84 from './mappings/Zendrum TRS.js'
 
-const getMappings = () => [
+const getMappings = () => ({
   '2box': F0,
   'Addictive Drums': F1,
   'Alesis DM Pro': F2,
@@ -170,5 +171,5 @@ const getMappings = () => [
   'Zendrum Stompblock': F82,
   'Zendrum TRS 2.0': F83,
   'Zendrum TRS': F84,
-]
+})
 export default getMappings

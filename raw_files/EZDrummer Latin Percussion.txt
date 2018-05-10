@@ -1,125 +1,125 @@
-3:Maracas Off Beat
-4:Maracas On Beat
-5:Maracas Cresendo
-6:Caxixi Off Beat
-7:Caxixi On Beat
-8:Caxixi Special
-9:Caxixi Beat
-10:Cajon Basstone R
-11:Cajon Ghost Left
-12:Cajon Ghost Right
-13:Cajon Sidestick L
-14:Cajon Sidestick R
-15:Timbale Hi Ruff
-16:Timbale Hi Flam
-17:Timbale Hi Sidestroke
-18:Timbale Hi Rimshot
-19:Timbale Hi Open Right
-20:Timbale Lo Rimshot
-21:Timbale Lo Open Right
-22:Timbale Lo Flam
-23:Timbale Lo Sidestroke
-24:Tbourin Cresendo
-25:Tbourin Muted
-26:Tbourin Off Beat
-27:Tbourin On Beat
-28:Bongo Open Right
-29:Bongo Left Heel
-30:Bongo Right Heel
-31:Bongo Cresendo
-32:Bongo Flam
-33:Udu Ghost Left
-34:Udu Ghost Right
-35:Udu Hi Open
-36:Udu Low Open
-37:Udu Slap Cresendo
-38:Udu Open Cresendo
-39:Udu Flam
-40:Cajon Slap Left
-41:Cajon Slap Right
-42:Cajon Slap Mid Left
-43:Cajon Slap Mid Right
-44:Big Shk Off Beat
-45:Big Shk On Beat
-46:Big Shk Shake
-47:Wood Block 3
-48:Shaker Off Beat
-49:Shaker On Beat
-50:Shaker Shake
-51:Bongo Lo Open Right
-52:Bongo Lo Cresendo
-53:Bongo Lo Flam
-54:Tbourin Open
-55:Splash Crashed
-56:Cowbell Struck
-57:Cymbal 1 crashed
-58:Vibraslap (FX)
-59:Cymbal 2 Crashed
-60:Bongo Hi Open L
-61:Bongo Lo Open L
-62:Conga Hi Muted L
-63:Conga Hi Open L
-64:Conga Lo Bass L
-65:Timbale Hi Open L
-66:Timbale Lo Open L
-67:Bells (FX)
-68:Waterfall (FX)
-69:Afuche Beat
-70:Shekere Beat
-71:Crickets (FX)
-72:Chimes (FX)
-73:Guiro Short
-74:Guiro Long
-75:Cajon Bastone L
-76:Woodblock 1
-77:Woodblock 2
-78:Udu Muted Slap
-79:Udu Open Slap
-80:Triangle Open
-81:Triangle Muted
-82:Cajon Flam
-83:Cajon Cresendo
-84:Cajon Brush Hit L
-85:Cajon Brush Hit R
-86:Cajon Brushed L
-87:Cajon Brushed R
-88:Conga 1 Slap Cresendo
-89:Conga 1 Muted Right
-90:Conga 1 Open Right
-91:Conga 1 Basstone R
-92:Conga 1 Open Slap L
-93:Conga 1 Open Slap R
-94:Conga 1 Closed Slap L
-95:Conga 1 Closed Slap R
-96:Conga 1  Heel Left
-97:Conga 1 Heel Right
-98:Conga 1  Open Cresendo
-99:Conga 1 Open Flam
-100:Conga 1 Slap Flam
-101:Conga 1 Special
-102:Conga 2 Open L
-103:Conga 2 Open R
-104:Conga 2 Muted L
-105:Conga 2 Muted R
-106:Conga 2 Basstone L
-107:Conga 2 Basstone R
-108:Conga 2 Open Cresendo
-109:Conga 2 Open Flam
-110:Conga 2 Special
-111:Conga 2  Open L
-112:Conga 2 Open R
-113:Conga 2 Muted L
-114:Conga 2 Muted R
-115:Conga 2 Basstone L
-116:Conga 2 Basstone R
-117:Conga 2 Open Cresendo
-118:Conga 2 Open Flam
-119:Cresendo Bells
-120:Cresendo Cymbal 1
-121:Cresendo Waterfall
-122:Cresendo Cymbal 2
-123:Cresendo Crickets
-124:Shekere Beat
-125:Shekere Off Beat
-126:Shekere On Beat
-127:Shekere Cresendo
+3:Perc|Maracas Off Beat
+4:Perc|Maracas On Beat
+5:Perc|Maracas Cresendo
+6:Perc|Caxixi Off Beat
+7:Perc|Caxixi On Beat
+8:Perc|Caxixi Special
+9:Perc|Caxixi Beat
+10:Perc|Cajon Basstone R
+11:Perc|Cajon Ghost Left
+12:Perc|Cajon Ghost Right
+13:Perc|Cajon Sidestick L
+14:Perc|Cajon Sidestick R
+15:Perc|Timbale Hi Ruff
+16:Perc|Timbale Hi Flam
+17:Perc|Timbale Hi Sidestroke
+18:Perc|Timbale Hi Rimshot
+19:Perc|Timbale Hi Open Right
+20:Perc|Timbale Lo Rimshot
+21:Perc|Timbale Lo Open Right
+22:Perc|Timbale Lo Flam
+23:Perc|Timbale Lo Sidestroke
+24:Perc|Tbourin Cresendo
+25:Perc|Tbourin Muted
+26:Perc|Tbourin Off Beat
+27:Perc|Tbourin On Beat
+28:Perc|Bongo Open Right
+29:Perc|Bongo Left Heel
+30:Perc|Bongo Right Heel
+31:Perc|Bongo Cresendo
+32:Perc|Bongo Flam
+33:Perc|Udu Ghost Left
+34:Perc|Udu Ghost Right
+35:Perc|Udu Hi Open
+36:Perc|Udu Low Open
+37:Perc|Udu Slap Cresendo
+38:Perc|Udu Open Cresendo
+39:Perc|Udu Flam
+40:Perc|Cajon Slap Left
+41:Perc|Cajon Slap Right
+42:Perc|Cajon Slap Mid Left
+43:Perc|Cajon Slap Mid Right
+44:Perc|Big Shk Off Beat
+45:Perc|Big Shk On Beat
+46:Perc|Big Shk Shake
+47:Perc|Wood Block 3
+48:Perc|Shaker Off Beat
+49:Perc|Shaker On Beat
+50:Perc|Shaker Shake
+51:Perc|Bongo Lo Open Right
+52:Perc|Bongo Lo Cresendo
+53:Perc|Bongo Lo Flam
+54:Perc|Tbourin Open
+55:Perc|Splash Crashed
+56:Perc|Cowbell Struck
+57:Perc|Cymbal 1 crashed
+58:Perc|Vibraslap (FX)
+59:Perc|Cymbal 2 Crashed
+60:Perc|Bongo Hi Open L
+61:Perc|Bongo Lo Open L
+62:Perc|Conga Hi Muted L
+63:Perc|Conga Hi Open L
+64:Perc|Conga Lo Bass L
+65:Perc|Timbale Hi Open L
+66:Perc|Timbale Lo Open L
+67:Perc|Bells (FX)
+68:Perc|Waterfall (FX)
+69:Perc|Afuche Beat
+70:Perc|Shekere Beat
+71:Perc|Crickets (FX)
+72:Perc|Chimes (FX)
+73:Perc|Guiro Short
+74:Perc|Guiro Long
+75:Perc|Cajon Bastone L
+76:Perc|Woodblock 1
+77:Perc|Woodblock 2
+78:Perc|Udu Muted Slap
+79:Perc|Udu Open Slap
+80:Perc|Triangle Open
+81:Perc|Triangle Muted
+82:Perc|Cajon Flam
+83:Perc|Cajon Cresendo
+84:Perc|Cajon Brush Hit L
+85:Perc|Cajon Brush Hit R
+86:Perc|Cajon Brushed L
+87:Perc|Cajon Brushed R
+88:Perc|Conga 1 Slap Cresendo
+89:Perc|Conga 1 Muted Right
+90:Perc|Conga 1 Open Right
+91:Perc|Conga 1 Basstone R
+92:Perc|Conga 1 Open Slap L
+93:Perc|Conga 1 Open Slap R
+94:Perc|Conga 1 Closed Slap L
+95:Perc|Conga 1 Closed Slap R
+96:Perc|Conga 1  Heel Left
+97:Perc|Conga 1 Heel Right
+98:Perc|Conga 1  Open Cresendo
+99:Perc|Conga 1 Open Flam
+100:Perc|Conga 1 Slap Flam
+101:Perc|Conga 1 Special
+102:Perc|Conga 2 Open L
+103:Perc|Conga 2 Open R
+104:Perc|Conga 2 Muted L
+105:Perc|Conga 2 Muted R
+106:Perc|Conga 2 Basstone L
+107:Perc|Conga 2 Basstone R
+108:Perc|Conga 2 Open Cresendo
+109:Perc|Conga 2 Open Flam
+110:Perc|Conga 2 Special
+111:Perc|Conga 2  Open L
+112:Perc|Conga 2 Open R
+113:Perc|Conga 2 Muted L
+114:Perc|Conga 2 Muted R
+115:Perc|Conga 2 Basstone L
+116:Perc|Conga 2 Basstone R
+117:Perc|Conga 2 Open Cresendo
+118:Perc|Conga 2 Open Flam
+119:Perc|Cresendo Bells
+120:Perc|Cresendo Cymbal 1
+121:Perc|Cresendo Waterfall
+122:Perc|Cresendo Cymbal 2
+123:Perc|Cresendo Crickets
+124:Perc|Shekere Beat
+125:Perc|Shekere Off Beat
+126:Perc|Shekere On Beat
+127:Perc|Shekere Cresendo

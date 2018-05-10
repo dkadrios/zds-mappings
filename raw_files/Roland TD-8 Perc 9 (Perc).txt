@@ -1,79 +1,79 @@
-18:R8 Bongo 2 High
-19:R8 Bongo 2 Low
-20:Bongo High
-21:Bongo Low
-22:Bongo2 High
-23:Bongo2 Low
-24:R8 Congo Mute
-25:R8 Congo High
-26:R8 Congo Low
-27:Cowbell Duo
-28:Tambourine 2
-29:Tambourine 3
-30:Timbale 2 High
-31:Timbale 2 Low
-32:Paila
-33:Tabla Na
-34:Tabla Tin
-35:Tabla Tun
-36:Tabla Te
-37:Tabla Ti
-38:Baya Ge
-39:Baya Ka
-40:Baya Gin
-41:Baya Sld
-42:Pot Drum
-43:Pot Drum Mute
-44:Talking Drum
-45:Thai Gong 2
-46:Tiny Gong
-47:Gong
-48:Temple Bell
-49:Wa-Daiko
-50:Taiko
-51:R70 Triangle Open
-52:R70 Triangle Mute
-53:Timpani G
-54:Timpani G
-55:Timpani G
-56:Timpani G
-57:Timpani G
-58:Timpani C
-59:Timpani C
-60:Timpani C
-61:Thai Gong
-62:Thai Gong
-63:Thai Gong
-64:Thai Gong
-65:Perc Hit 1
-66:Perc Hit 2
-67:Orch Maj
-68:Orch Min
-69:Orch Dim
-70:Kick/Rol
-71:Kick/Cym
-72:Orch Roll
-73:Orch Chok
-74:Hit Roll
-75:Finale
-76:Applause
-77:Encore
-78:Tree Chime
-79:808 Clap
-80:808 Cowbell 1
-81:808 Cowbell 2
-82:808 Maracas
-83:808 Claves
-84:808 Conga
-85:909 RIM
-86:909 CLAP
-87:78 Cowbell
-88:78 Guiro
-89:78 Guiro Stort
-90:78 Maracas
-91:78 MBeat
-92:78 Tambourine
-93:78 Bongo
-94:78 Claves
-95:78 Rim
-96:55 Claves
+18:Perc|R8 Bongo 2 High
+19:Perc|R8 Bongo 2 Low
+20:Perc|Bongo High
+21:Perc|Bongo Low
+22:Perc|Bongo2 High
+23:Perc|Bongo2 Low
+24:Perc|R8 Congo Mute
+25:Perc|R8 Congo High
+26:Perc|R8 Congo Low
+27:Perc|Cowbell Duo
+28:Perc|Tambourine 2
+29:Perc|Tambourine 3
+30:Perc|Timbale 2 High
+31:Perc|Timbale 2 Low
+32:Perc|Paila
+33:Perc|Tabla Na
+34:Perc|Tabla Tin
+35:Perc|Tabla Tun
+36:Perc|Tabla Te
+37:Perc|Tabla Ti
+38:Perc|Baya Ge
+39:Perc|Baya Ka
+40:Perc|Baya Gin
+41:Perc|Baya Sld
+42:Perc|Pot Drum
+43:Perc|Pot Drum Mute
+44:Perc|Talking Drum
+45:Perc|Thai Gong 2
+46:Perc|Tiny Gong
+47:Perc|Gong
+48:Perc|Temple Bell
+49:Perc|Wa-Daiko
+50:Perc|Taiko
+51:Perc|R70 Triangle Open
+52:Perc|R70 Triangle Mute
+53:Perc|Timpani G
+54:Perc|Timpani G
+55:Perc|Timpani G
+56:Perc|Timpani G
+57:Perc|Timpani G
+58:Perc|Timpani C
+59:Perc|Timpani C
+60:Perc|Timpani C
+61:Perc|Thai Gong
+62:Perc|Thai Gong
+63:Perc|Thai Gong
+64:Perc|Thai Gong
+65:Perc|Perc Hit 1
+66:Perc|Perc Hit 2
+67:Perc|Orch Maj
+68:Perc|Orch Min
+69:Perc|Orch Dim
+70:Perc|Kick/Rol
+71:Perc|Kick/Cym
+72:Perc|Orch Roll
+73:Perc|Orch Chok
+74:Perc|Hit Roll
+75:Perc|Finale
+76:Perc|Applause
+77:Perc|Encore
+78:Perc|Tree Chime
+79:Perc|808 Clap
+80:Perc|808 Cowbell 1
+81:Perc|808 Cowbell 2
+82:Perc|808 Maracas
+83:Perc|808 Claves
+84:Perc|808 Conga
+85:Perc|909 RIM
+86:Perc|909 CLAP
+87:Perc|78 Cowbell
+88:Perc|78 Guiro
+89:Perc|78 Guiro Stort
+90:Perc|78 Maracas
+91:Perc|78 MBeat
+92:Perc|78 Tambourine
+93:Perc|78 Bongo
+94:Perc|78 Claves
+95:Perc|78 Rim
+96:Perc|55 Claves

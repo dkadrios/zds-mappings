@@ -1,106 +1,106 @@
-22:Bongo High
-23:Bongo High Slap
-24:Bongo Low
-25:Bongo Low Slap
-26:Cabasa
-27:Conga High Mute
-28:Conga High Slap
-29:Conga Low
-30:Conga Low Mute
-31:Cajon Bass
-32:Cajon Mute
-33:Cajon Slap
-34:Cowbell High
-35:Cowbell Low
-36:Cowbell Mambo
-37:Cowbell Mambo
-38:Pandeiro
-39:Surdo Low Mute
-40:Pandeiro Slap
-41:Surdo Low
-42:Maracas
-43:Surdo High
-44:Shaker
-45:Timbale Low
-46:Shaker
-47:Timbale Paila
-48:Timbale High
-49:Guiro Short
-50:Timbale High Rim
-51:Whistle Short
-52:Cuica Low
-53:Vibra Slap
-54:Agogo High
-55:Guiro Long
-56:Cabasa
-57:Cuica High
-58:Surdo High Mute
-59:Whistle
-60:Pandeiro
-61:Pandeiro Mute
-62:Pandeiro Slap
-63:Surdo High
-64:Surdo High Mute
-65:Surdo Low
-66:Surdo Low Mute
-67:Whistle
-68:Whistle Short
-69:Vibra Slap
-70:Tabla Na
-71:Tabla Te
-72:Tabla Ti
-73:Tabla Tin
-74:Tabla Tun
-75:Baya Ge
-76:Baya Gin
-77:Baya Ka
-78:Baya Slide
-79:Pot Drum
-80:Pot Drum Accent
-81:Pot Drum Mute
-82:Djembe Tone
-83:Djembe Slap
-84:Djembe Bass
-85:Talking Drum
-86:Talking Drum Up
-87:Castanet
-88:Wood Block
-89:Timpani C
-90:Timpani G
-91:Concert Bass Drum
-92:Concert Bass Drum Mute
-93:Hand Cymbal
-94:Hand Cymbal Mute
-95:Triangle
-96:Triangle Clapsed
-97:Triangle 2
-98:Triangle 2 Clapsed
-99:Crotale
-100:Bell Tree
-101:Sleigh Bells
-102:Tree Chimes
-103:Thai Gong
-104:Tiny Gong
-105:Gong
-106:Orchestra Hit
-107:Snare Roll
-108:Concert Snare
-109:Steel Drum
-110:Celesta
-111:Glockenspiel
-112:Kalimba
-113:Marimba
-114:Tubular Bell
-115:Vibraphone
-116:Xylophone
-117:CR78 Cowbell
-118:CR78 Guiro
-119:CR78 Maracas
-120:CR78 Metal Beat
-121:CR78 Tambourine
-122:TR808 Clap
-123:TR808 Claves
-124:TR808 Cowbell
-125:TR808 Maracas
-126:TR808 XStick
-127:TR909 Clap
+22:Perc|Bongo High
+23:Perc|Bongo High Slap
+24:Perc|Bongo Low
+25:Perc|Bongo Low Slap
+26:Perc|Cabasa
+27:Perc|Conga High Mute
+28:Perc|Conga High Slap
+29:Perc|Conga Low
+30:Perc|Conga Low Mute
+31:Perc|Cajon Bass
+32:Perc|Cajon Mute
+33:Perc|Cajon Slap
+34:Perc|Cowbell High
+35:Perc|Cowbell Low
+36:Perc|Cowbell Mambo
+37:Perc|Cowbell Mambo
+38:Perc|Pandeiro
+39:Perc|Surdo Low Mute
+40:Perc|Pandeiro Slap
+41:Perc|Surdo Low
+42:Perc|Maracas
+43:Perc|Surdo High
+44:Perc|Shaker
+45:Perc|Timbale Low
+46:Perc|Shaker
+47:Perc|Timbale Paila
+48:Perc|Timbale High
+49:Perc|Guiro Short
+50:Perc|Timbale High Rim
+51:Perc|Whistle Short
+52:Perc|Cuica Low
+53:Perc|Vibra Slap
+54:Perc|Agogo High
+55:Perc|Guiro Long
+56:Perc|Cabasa
+57:Perc|Cuica High
+58:Perc|Surdo High Mute
+59:Perc|Whistle
+60:Perc|Pandeiro
+61:Perc|Pandeiro Mute
+62:Perc|Pandeiro Slap
+63:Perc|Surdo High
+64:Perc|Surdo High Mute
+65:Perc|Surdo Low
+66:Perc|Surdo Low Mute
+67:Perc|Whistle
+68:Perc|Whistle Short
+69:Perc|Vibra Slap
+70:Perc|Tabla Na
+71:Perc|Tabla Te
+72:Perc|Tabla Ti
+73:Perc|Tabla Tin
+74:Perc|Tabla Tun
+75:Perc|Baya Ge
+76:Perc|Baya Gin
+77:Perc|Baya Ka
+78:Perc|Baya Slide
+79:Perc|Pot Drum
+80:Perc|Pot Drum Accent
+81:Perc|Pot Drum Mute
+82:Perc|Djembe Tone
+83:Perc|Djembe Slap
+84:Perc|Djembe Bass
+85:Perc|Talking Drum
+86:Perc|Talking Drum Up
+87:Perc|Castanet
+88:Perc|Wood Block
+89:Perc|Timpani C
+90:Perc|Timpani G
+91:Perc|Concert Bass Drum
+92:Perc|Concert Bass Drum Mute
+93:Perc|Hand Cymbal
+94:Perc|Hand Cymbal Mute
+95:Perc|Triangle
+96:Perc|Triangle Clapsed
+97:Perc|Triangle 2
+98:Perc|Triangle 2 Clapsed
+99:Perc|Crotale
+100:Perc|Bell Tree
+101:Perc|Sleigh Bells
+102:Perc|Tree Chimes
+103:Perc|Thai Gong
+104:Perc|Tiny Gong
+105:Perc|Gong
+106:Perc|Orchestra Hit
+107:Perc|Snare Roll
+108:Perc|Concert Snare
+109:Perc|Steel Drum
+110:Perc|Celesta
+111:Perc|Glockenspiel
+112:Perc|Kalimba
+113:Perc|Marimba
+114:Perc|Tubular Bell
+115:Perc|Vibraphone
+116:Perc|Xylophone
+117:Perc|CR78 Cowbell
+118:Perc|CR78 Guiro
+119:Perc|CR78 Maracas
+120:Perc|CR78 Metal Beat
+121:Perc|CR78 Tambourine
+122:Perc|TR808 Clap
+123:Perc|TR808 Claves
+124:Perc|TR808 Cowbell
+125:Perc|TR808 Maracas
+126:Perc|TR808 XStick
+127:Perc|TR909 Clap

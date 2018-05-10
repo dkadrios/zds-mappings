@@ -1,6 +1,6 @@
 export { default as getMappings } from './getMappings'
 
-export const availableGroups = [
+export const getAvailableGroups = () => [
   { value: 'all', label: 'All groups' },
   { value: 'Cymbal', label: 'Cymbals' },
   { value: 'Hi-hat', label: 'Hi-hats' },
@@ -10,5 +10,3 @@ export const availableGroups = [
   { value: 'Snare', label: 'Snares' },
   { value: 'Tom', label: 'Toms' },
 ]
-
-export default availableGroups

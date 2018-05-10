@@ -1,126 +1,126 @@
-0:Bass Gliss
-1:Guitar Scrtch
-2:Wah Guitar 1 Down
-3:Wah Guitar 1 Up
-4:Wah Guitar 2 Down
-5:Wah Guitar 2 Up
-6:CR78 Guiro
-7:CR78 Tambourine
-8:TR808 Clap
-9:TR808 Cowbell
-10:TR808 Maracas
-11:TR909 Clap
-12:Hi-Q
-13:R8 Slap
-14:Scratch 2
-15:Scratch 3
-16:Sticks
-17:Click
-18:Metro Click
-19:Metro Bell
-20:Clap
-21:Vibra Slap
-22:Square Block
-24:Beep
-25:Crotale
-26:Square Block
-27:Conga Low
-28:Conga Low Mute
-29:Guiro Short
-30:Guiro Long
-31:Cuica High
-32:Cuica Low
-33:Cowbell High
-34:Cowbell Low
-35:Cowbell Mambo
-36:Cowbell Mute
-37:Pandeiro Slap
-38:Pandeiro Mute
-39:Conga Low Mute
-40:Pandeiro Slap
-41:Conga Low
-42:Claves
-43:Conga High
-44:Claves
-45:Bongo Low
-46:Claves
-47:Bongo Low Slap
-48:Bongo High
-49:Triangle Clapsed
-50:Bongo High Slap
-51:Sleigh Bells
-52:Agogo Low
-53:Cowbell High
-54:Tambourine 1
-55:Triangle
-56:Cowbell Mute
-57:Agogo High
-58:Conga High Mute
-59:Tree Chimes
-60:Bongo High
-61:Bongo Low
-62:Conga High
-63:Conga High Slap
-64:Conga Low
-65:Timbale High
-66:Timbale Low
-67:Agogo High
-68:Agogo Low
-69:Cabasa
-70:Maracas
-71:Whistle Short
-72:Whistle
-73:Guiro Short
-74:Guiro Long
-75:Claves
-76:Block High
-77:Block Low
-78:Cuica High
-79:Cuica Low
-80:Triangle Clapsed
-81:Triangle
-82:Shaker
-83:Sleigh Bells
-84:Bell Tree
-85:Castanet
-86:Surdo Low Mute
-87:Surdo Low
-88:Bongo High Slap
-89:Bongo Low Slap
-90:Conga High Mute
-91:Conga Low Mute
-92:Pandeiro Mute
-93:Pandeiro
-94:Pandeiro Slap
-95:Tree Chimes
-96:Crotale
-97:Gong
-98:Cajon Bass
-99:Cajon Mute
-100:Cajon Slap
-101:Cowbell Mambo
-102:SquareBlock
-103:Caxixi
-104:Timbale High Rm
-105:Timbale Paila
-106:Cuica Accent
-107:Surdo High
-108:Surdo High Mute
-109:Pot Drum
-110:Pot Drum Accent
-111:Pot Drum Mute
-112:Djembe Tone
-113:Djembe Slap
-114:Djembe Bass
-115:Talking Drum
-116:Talking Drum Up
-117:Tabla Na
-118:Tabla Te
-119:Tabla Ti
-120:Tabla Tun
-121:Baya Ge
-122:Baya Gin
-123:Baya Ka
-124:Baya Slide
-125:Tambourine 2
-126:6” Splash Edge
+0:Perc|Bass Gliss
+1:Perc|Guitar Scrtch
+2:Perc|Wah Guitar 1 Down
+3:Perc|Wah Guitar 1 Up
+4:Perc|Wah Guitar 2 Down
+5:Perc|Wah Guitar 2 Up
+6:Perc|CR78 Guiro
+7:Perc|CR78 Tambourine
+8:Perc|TR808 Clap
+9:Perc|TR808 Cowbell
+10:Perc|TR808 Maracas
+11:Perc|TR909 Clap
+12:Perc|Hi-Q
+13:Perc|R8 Slap
+14:Perc|Scratch 2
+15:Perc|Scratch 3
+16:Perc|Sticks
+17:Perc|Click
+18:Perc|Metro Click
+19:Perc|Metro Bell
+20:Perc|Clap
+21:Perc|Vibra Slap
+22:Perc|Square Block
+24:Perc|Beep
+25:Perc|Crotale
+26:Perc|Square Block
+27:Perc|Conga Low
+28:Perc|Conga Low Mute
+29:Perc|Guiro Short
+30:Perc|Guiro Long
+31:Perc|Cuica High
+32:Perc|Cuica Low
+33:Perc|Cowbell High
+34:Perc|Cowbell Low
+35:Perc|Cowbell Mambo
+36:Perc|Cowbell Mute
+37:Perc|Pandeiro Slap
+38:Perc|Pandeiro Mute
+39:Perc|Conga Low Mute
+40:Perc|Pandeiro Slap
+41:Perc|Conga Low
+42:Perc|Claves
+43:Perc|Conga High
+44:Perc|Claves
+45:Perc|Bongo Low
+46:Perc|Claves
+47:Perc|Bongo Low Slap
+48:Perc|Bongo High
+49:Perc|Triangle Clapsed
+50:Perc|Bongo High Slap
+51:Perc|Sleigh Bells
+52:Perc|Agogo Low
+53:Perc|Cowbell High
+54:Perc|Tambourine 1
+55:Perc|Triangle
+56:Perc|Cowbell Mute
+57:Perc|Agogo High
+58:Perc|Conga High Mute
+59:Perc|Tree Chimes
+60:Perc|Bongo High
+61:Perc|Bongo Low
+62:Perc|Conga High
+63:Perc|Conga High Slap
+64:Perc|Conga Low
+65:Perc|Timbale High
+66:Perc|Timbale Low
+67:Perc|Agogo High
+68:Perc|Agogo Low
+69:Perc|Cabasa
+70:Perc|Maracas
+71:Perc|Whistle Short
+72:Perc|Whistle
+73:Perc|Guiro Short
+74:Perc|Guiro Long
+75:Perc|Claves
+76:Perc|Block High
+77:Perc|Block Low
+78:Perc|Cuica High
+79:Perc|Cuica Low
+80:Perc|Triangle Clapsed
+81:Perc|Triangle
+82:Perc|Shaker
+83:Perc|Sleigh Bells
+84:Perc|Bell Tree
+85:Perc|Castanet
+86:Perc|Surdo Low Mute
+87:Perc|Surdo Low
+88:Perc|Bongo High Slap
+89:Perc|Bongo Low Slap
+90:Perc|Conga High Mute
+91:Perc|Conga Low Mute
+92:Perc|Pandeiro Mute
+93:Perc|Pandeiro
+94:Perc|Pandeiro Slap
+95:Perc|Tree Chimes
+96:Perc|Crotale
+97:Perc|Gong
+98:Perc|Cajon Bass
+99:Perc|Cajon Mute
+100:Perc|Cajon Slap
+101:Perc|Cowbell Mambo
+102:Perc|SquareBlock
+103:Perc|Caxixi
+104:Perc|Timbale High Rm
+105:Perc|Timbale Paila
+106:Perc|Cuica Accent
+107:Perc|Surdo High
+108:Perc|Surdo High Mute
+109:Perc|Pot Drum
+110:Perc|Pot Drum Accent
+111:Perc|Pot Drum Mute
+112:Perc|Djembe Tone
+113:Perc|Djembe Slap
+114:Perc|Djembe Bass
+115:Perc|Talking Drum
+116:Perc|Talking Drum Up
+117:Perc|Tabla Na
+118:Perc|Tabla Te
+119:Perc|Tabla Ti
+120:Perc|Tabla Tun
+121:Perc|Baya Ge
+122:Perc|Baya Gin
+123:Perc|Baya Ka
+124:Perc|Baya Slide
+125:Perc|Tambourine 2
+126:Perc|6ï¿½ Splash Edge
