@@ -32,25 +32,18 @@ module.exports = (gulp) => {
   })
 
   gulp.task('build:index', (cb) => {
-    let result = '/* eslint-disable camelcase */\n'
+    let result = ''
     const files = fs.readdirSync(outputPath)
     const fileNames = files.map(file => file.replace('.js', ''))
-    const importNames = files
-      .map(file => file.replace('.js', ''))
-      .map(file => file.replace(/ /g, ''))
-      .map(file => file.replace(/-/g, '_'))
-      .map(file => file.replace(/\(/g, '_'))
-      .map(file => file.replace(/\)/g, '_'))
-      .map(file => file.replace(/\./g, '_'))
-      .map(file => file.replace('2box', '_2box'))
+
     fs.unlinkSync(indexPath)
     files.forEach((file, idx) => {
-      result += `import ${importNames[idx]} from './mappings/${file}'\n`
+      result += `import F${idx} from './mappings/${file}'\n`
     })
 
     result += '\nconst getMappings = () => [\n'
 
-    result += `${fileNames.map((file, idx) => `  '${file}': ${importNames[idx]}`).join(',\n')},\n`
+    result += `${fileNames.map((file, idx) => `  '${file}': F${idx}`).join(',\n')},\n`
 
     result += ']\nexport default getMappings\n'
 
