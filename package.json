@@ -2,7 +2,7 @@
   "name": "zds-mappings",
   "version": "1.0.0",
   "description": "Mapping files for ZendrumStudio applications",
-  "main": "build/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
     "build:watch": "babel src -w -d dist",
