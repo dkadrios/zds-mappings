@@ -2,7 +2,7 @@ import mapper from './mapper'
 
 const localStorageKey = 'zds-user-mappings'
 
-const loadMappings = () => JSON.parse(localStorage.getItem(localStorageKey))
+const loadMappings = () => JSON.parse(localStorage.getItem(localStorageKey) || '[]')
 
 const storeMappings = (mappings) => {
   localStorage.setItem(localStorageKey, JSON.stringify(mappings))
