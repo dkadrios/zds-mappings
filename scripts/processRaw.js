@@ -41,11 +41,20 @@ module.exports = (gulp) => {
       result += `import F${idx} from './mappings/${file}'\n`
     })
 
-    result += '\nconst getMappings = () => ({\n'
+    result += '\nexport const getStockNames = () => ([\n'
 
-    result += `${fileNames.map((file, idx) => `  '${file}': F${idx}`).join(',\n')},\n`
+    result += fileNames.map(file => `  '${file}',`).join('\n')
 
-    result += '})\nexport default getMappings\n'
+    result += '\n])\n\n'
+
+    result += '\nexport const getMapping = (name) => {\n'
+
+    result += '  switch (name) {\n'
+
+    result += fileNames.map((file, idx) => `    case '${file}': return F${idx}`).join('\n')
+
+    result += '\n    default: return null\n  }\n}\n'
+    // result += '})\nexport default getMappings\n'
 
     fs.writeFile(indexPath, result, cb)
   })

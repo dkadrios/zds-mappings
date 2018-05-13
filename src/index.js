@@ -1,4 +1,4 @@
-export { default as getMappings } from './getMappings'
+export { getStockNames, getMapping } from './getMappings'
 
 export const getAvailableGroups = () => [
   { value: 'all', label: 'All groups' },
