@@ -1,4 +1,6 @@
+
 /* eslint-disable quote-props */
+import { getUserMapping } from './userMappings'
 import F0 from './mappings/2box.js'
 import F1 from './mappings/Addictive Drums.js'
 import F2 from './mappings/Alesis DM Pro.js'
@@ -173,8 +175,12 @@ export const getStockNames = () => ([
   'Zendrum TRS',
 ])
 
-
 export const getMapping = (name) => {
+  const userMapping = getUserMapping(name)
+  if (userMapping) {
+    return userMapping
+  }
+
   switch (name) {
     case '2box': return F0
     case 'Addictive Drums': return F1
