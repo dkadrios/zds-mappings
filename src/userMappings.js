@@ -1,6 +1,6 @@
 import mapper from './mapper'
 
-const localStorageKey = 'zds-shifter-mappings'
+const localStorageKey = 'zds-user-mappings'
 
 const loadMappings = () => JSON.parse(localStorage.getItem(localStorageKey))
 

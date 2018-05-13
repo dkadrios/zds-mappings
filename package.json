@@ -1,6 +1,6 @@
 {
   "name": "zds-mappings",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Mapping files for ZendrumStudio applications",
   "main": "dist/index.js",
   "scripts": {
@@ -33,11 +33,7 @@
       "./__tests__/__config__/fetch-mock.js",
       "jest-localstorage-mock"
     ],
-    "modulePathIgnorePatterns": [
-      "./__config__",
-      "./__assets__",
-      "./__mocks__"
-    ],
+    "modulePathIgnorePatterns": ["./__config__", "./__assets__", "./__mocks__"],
     "moduleNameMapper": {
       "\\.(.scss)$": "<rootDir>/node_modules/jest-css-modules"
     }
