@@ -14,8 +14,8 @@ const processContent = content => mapper(content.split(/[\r\n]+/g))
 
 export const getUserMappingNames = () => Object.keys(loadMappings())
 
-const userMappingExists = mappingName => getUserMappingNames().contains(mappingName)
-const stockMappingExists = mappingName => getStockNames().contains(mappingName)
+const userMappingExists = mappingName => getUserMappingNames().includes(mappingName)
+const stockMappingExists = mappingName => getStockNames().includes(mappingName)
 /* eslint-disable max-len */
 const mappingNameExists = mappingName => userMappingExists(mappingName) || stockMappingExists(mappingName)
 /* eslint-enable max-len */
