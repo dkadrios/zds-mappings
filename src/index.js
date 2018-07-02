@@ -1,13 +1,24 @@
 export { getStockNames, getMapping } from './getMappings'
-export { storeMapping, removeMapping, getUserMappingNames, validateContent } from './userMappings'
+export {
+  storeMapping,
+  removeMapping,
+  getUserMappingNames,
+  validateContent,
+  editUserMapping,
+  createUserMapping,
+  renameUserMapping,
+  cloneMapping,
+  getNextAvailableMappingName,
+} from './userMappings'
 
 export const getAvailableGroups = () => [
   { value: 'all', label: 'All groups' },
-  { value: 'Cymbal', label: 'Cymbals' },
-  { value: 'Hi-hat', label: 'Hi-hats' },
-  { value: 'Kick', label: 'Kicks' },
-  { value: 'Percussion', label: 'Percussion' },
-  { value: 'Ride', label: 'Rides' },
-  { value: 'Snare', label: 'Snares' },
-  { value: 'Tom', label: 'Toms' },
+  { value: 'Cymbals', label: 'Cymbals' },
+  { value: 'Hats', label: 'Hi-hats' },
+  { value: 'Kicks', label: 'Kicks' },
+  { value: 'Perc', label: 'Percussion' },
+  { value: 'Rides', label: 'Rides' },
+  { value: 'Snares', label: 'Snares' },
+  { value: 'Toms', label: 'Toms' },
+  { value: 'Groove', label: 'Groove' },
 ]

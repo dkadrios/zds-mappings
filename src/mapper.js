@@ -1,15 +1,19 @@
 import { arraySequence } from './utils'
 
 export default (raw) => {
-  const availableNotes = raw.map((item) => {
-    const props = /(\d+):([\w\s-]+)\|(.*)/.exec(item)
+  const availableNotes = raw
+    .map((item) => {
+      const props = /(\d+):([\w\s-]*)\|(.*)/.exec(item)
 
-    return {
-      note: parseInt(props[1], 10),
-      group: String(props[2]).trim(),
-      name: String(props[3]).trim(),
-    }
-  })
+      return props
+        ? {
+          note: parseInt(props[1], 10),
+          group: String(props[2]).trim(),
+          name: String(props[3]).trim(),
+        }
+        : null
+    })
+    .filter(item => item !== null)
 
   // We may not have a complete set of 128 notes, so fill in the blanks
   return arraySequence(128)
@@ -21,3 +25,6 @@ export default (raw) => {
         name: '',
       })
 }
+
+export const reverse = content =>
+  content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
