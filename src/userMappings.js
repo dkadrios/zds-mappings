@@ -16,8 +16,9 @@ export const getUserMappingNames = () => Object.keys(loadMappings())
 
 const userMappingExists = mappingName => getUserMappingNames().contains(mappingName)
 const stockMappingExists = mappingName => getStockNames().contains(mappingName)
-const mappingNameExists = mappingName =>
-  userMappingExists(mappingName) || stockMappingExists(mappingName)
+/* eslint-disable max-len */
+const mappingNameExists = mappingName => userMappingExists(mappingName) || stockMappingExists(mappingName)
+/* eslint-enable max-len */
 
 const storeMappingAllowOverwrite = (name, content) => {
   storeMappings({
@@ -58,10 +59,10 @@ export const validateContent = (content) => {
 
 export const editUserMapping = (name, noteNum, fieldName, value) => {
   if (
-    userMappingExists(name) &&
-    noteNum > 0 &&
-    noteNum < 128 &&
-    ['group', 'name'].includes(fieldName)
+    userMappingExists(name)
+    && noteNum > 0
+    && noteNum < 128
+    && ['group', 'name'].includes(fieldName)
   ) {
     const content = getUserMapping(name)
     content[noteNum - 1][fieldName] = value

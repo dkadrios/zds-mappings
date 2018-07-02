@@ -18,13 +18,12 @@ module.exports = (gulp) => {
     gulp
       .src(inputPath)
       .pipe(modify({
-        fileModifier: (file, contents) =>
-          `import mapper from '../mapper'\n\nexport default mapper([\n${contents
-            .trim()
-            .split('\n')
-            .map(line => line.replace("'", "\\'"))
-            .map(line => `  '${line}',`)
-            .join('\n')}\n])\n`,
+        fileModifier: (file, contents) => `import mapper from '../mapper'\n\nexport default mapper([\n${contents
+          .trim()
+          .split('\n')
+          .map(line => line.replace("'", "\\'"))
+          .map(line => `  '${line}',`)
+          .join('\n')}\n])\n`,
       }))
       .pipe(extReplace('.js'))
       .pipe(gulp.dest(outputPath))

@@ -1,6 +1,6 @@
 {
   "parser": "babel-eslint",
-  "extends": ["airbnb", "plugin:import/errors", "plugin:import/warnings"],
+  "extends": ["airbnb-base", "plugin:import/errors", "plugin:import/warnings"],
   "env": {
     "browser": true,
     "node": true,
@@ -11,6 +11,7 @@
   "settings": {},
   "rules": {
     "function-paren-newline": ["error", "multiline"],
+    "import/no-cycle": 0,
     "import/extensions": 0,
     "no-nested-ternary": 0,
     "no-confusing-arrow": 0,

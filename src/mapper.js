@@ -18,13 +18,11 @@ export default (raw) => {
   // We may not have a complete set of 128 notes, so fill in the blanks
   return arraySequence(128)
     .map(n => n + 1)
-    .map(n =>
-      availableNotes.find(({ note }) => n === note) || {
-        note: n,
-        group: '',
-        name: '',
-      })
+    .map(n => availableNotes.find(({ note }) => n === note) || {
+      note: n,
+      group: '',
+      name: '',
+    })
 }
 
-export const reverse = content =>
-  content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
+export const reverse = content => content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
