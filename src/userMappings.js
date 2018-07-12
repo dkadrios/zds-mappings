@@ -34,7 +34,7 @@ export const storeMapping = (name, content) => {
 }
 
 export const removeMapping = (name) => {
-  if (stockMappingExists(name)) {
+  if (mappingNameExists(name)) {
     const mappings = loadMappings()
     delete mappings[name]
     storeMappings(mappings)
