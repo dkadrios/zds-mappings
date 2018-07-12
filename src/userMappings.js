@@ -34,7 +34,7 @@ export const storeMapping = (name, content) => {
 }
 
 export const removeMapping = (name) => {
-  if (mappingNameExists(name)) {
+  if (userMappingExists(name)) {
     const mappings = loadMappings()
     delete mappings[name]
     storeMappings(mappings)
@@ -77,7 +77,7 @@ export const createUserMapping = (name) => {
 }
 
 export const renameUserMapping = (oldName, newName) => {
-  if (stockMappingExists(oldName) && !mappingNameExists(newName)) {
+  if (userMappingExists(oldName) && !mappingNameExists(newName)) {
     const content = getUserMapping(oldName)
     const userMappings = getUserMappingNames()
     if (!userMappings.includes(newName)) {

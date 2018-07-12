@@ -1,5 +1,56 @@
 import { arraySequence } from './utils'
 
+export const standardizeGroup = (name) => {
+  switch (String(name).toLocaleLowerCase()) {
+    case 'cymbals':
+    case 'cymbal':
+    case 'cym':
+      return 'Cymbals'
+
+    case 'hats':
+    case 'hat':
+    case 'hi-hat':
+    case 'hi-hats':
+      return 'Hats'
+
+    case 'kicks':
+    case 'kick':
+      return 'Kicks'
+
+    case 'perc':
+    case 'percussion':
+      return 'Perc'
+
+    case 'rides':
+    case 'ride':
+      return 'Rides'
+
+    case 'snares':
+    case 'snare':
+      return 'Snares'
+
+    case 'toms':
+    case 'tom':
+    case 'tom-tom':
+      return 'Toms'
+
+    case 'aux':
+    case 'auxillary':
+      return 'aux'
+
+    default:
+      return name
+  }
+}
+
+export const standardizeItem = ({ note, group, name }) => ({
+  note,
+  name,
+  group: standardizeGroup(group),
+})
+
+export const reverse = content => content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
+
 export default (raw) => {
   const availableNotes = raw
     .map((item) => {
@@ -14,6 +65,7 @@ export default (raw) => {
         : null
     })
     .filter(item => item !== null)
+    .map(standardizeItem)
 
   // We may not have a complete set of 128 notes, so fill in the blanks
   return arraySequence(128)
@@ -24,5 +76,3 @@ export default (raw) => {
       name: '',
     })
 }
-
-export const reverse = content => content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
