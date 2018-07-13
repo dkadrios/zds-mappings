@@ -10,6 +10,7 @@ export {
   cloneMapping,
   getNextAvailableMappingName,
 } from './userMappings'
+export { reverse } from './mapper'
 
 export const getAvailableGroups = () => [
   { value: 'all', label: 'All groups' },
