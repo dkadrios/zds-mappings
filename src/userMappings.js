@@ -49,7 +49,7 @@ export const getUserMapping = (name) => {
 export const validateContent = (content) => {
   let result = true
   try {
-    processContent(content, false)
+    result = processContent(content, false).length
   } catch (err) {
     result = false
   }

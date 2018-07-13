@@ -1,6 +1,6 @@
 {
   "name": "zds-mappings",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Mapping files for ZendrumStudio applications",
   "main": "dist/index.js",
   "scripts": {
