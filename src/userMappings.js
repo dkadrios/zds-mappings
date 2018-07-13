@@ -10,7 +10,7 @@ const storeMappings = (mappings) => {
   localStorage.setItem(localStorageKey, JSON.stringify(mappings))
 }
 
-const processContent = content => mapper(content.split(/[\r\n]+/g))
+const processContent = (content, fillMissing = true) => mapper(content.split(/[\r\n]+/g), fillMissing)
 
 export const getUserMappingNames = () => Object.keys(loadMappings())
 
@@ -49,7 +49,7 @@ export const getUserMapping = (name) => {
 export const validateContent = (content) => {
   let result = true
   try {
-    processContent(content)
+    processContent(content, false)
   } catch (err) {
     result = false
   }

@@ -51,7 +51,7 @@ export const standardizeItem = ({ note, group, name }) => ({
 
 export const reverse = content => content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
 
-export default (raw) => {
+export default (raw, fillMissing = true) => {
   const availableNotes = raw
     .map((item) => {
       const props = /(\d+):([\w\s-]*)\|(.*)/.exec(item)
@@ -68,11 +68,13 @@ export default (raw) => {
     .map(standardizeItem)
 
   // We may not have a complete set of 128 notes, so fill in the blanks
-  return arraySequence(128)
-    .map(n => n + 1)
-    .map(n => availableNotes.find(({ note }) => n === note) || {
-      note: n,
-      group: '',
-      name: '',
-    })
+  return fillMissing
+    ? arraySequence(128)
+      .map(n => n + 1)
+      .map(n => availableNotes.find(({ note }) => n === note) || {
+        note: n,
+        group: '',
+        name: '',
+      })
+    : availableNotes
 }
