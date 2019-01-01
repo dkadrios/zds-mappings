@@ -1,6 +1,6 @@
 {
   "name": "zds-mappings",
-  "version": "1.4.7",
+  "version": "1.4.9",
   "description": "Mapping files for ZendrumStudio applications",
   "main": "dist/index.js",
   "scripts": {
@@ -18,9 +18,6 @@
   "repository": "https://github.com/dkadrios/zds-mappings.git",
   "author": "Darin Kadrioski",
   "license": "MIT",
-  "engines": {
-    "node": "^8.10.0"
-  },
   "jest": {
     "globals": {
       "__DEV__": true,

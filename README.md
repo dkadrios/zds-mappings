@@ -41,6 +41,9 @@ Pass in the name of the new mapping. This method uses the same naming rules as `
 **editUserMapping(name: string, noteNum: number, fieldName: string, value: string|number)**
 This is used to modify a note entry in a user mapping. Pass the mapping name and the note number (1 to 128, not zero-indexed). The `fieldName` argument should be either "group" or "name", depending on which you wish to alter. The value will be either be the group name or the new MIDI note number value.
 
+**emptyMapping()**
+Returns an empty mapping. Useful for situations where a mapping is required, but none is available.
+
 **getAvailableGroups()**
 Returns an array of group types. Each entry will have a `value` and a `label` field. `value` is what is store in the `value` field for each note entry, and `label` is what should be shown to the user.
 

@@ -51,7 +51,7 @@ export const standardizeItem = ({ note, group, name }) => ({
 
 export const reverse = content => content.map(({ note, group, name }) => `${note}:${group}|${name}`).join('\n')
 
-export default (raw, fillMissing = true) => {
+const mapper = (raw, fillMissing = true) => {
   const availableNotes = raw
     .map((item) => {
       const props = /(\d+):([\w\s-]*)\|(.*)/.exec(item)
@@ -78,3 +78,7 @@ export default (raw, fillMissing = true) => {
       })
     : availableNotes
 }
+
+export const emptyMapping = () => mapper([], true)
+
+export default mapper
